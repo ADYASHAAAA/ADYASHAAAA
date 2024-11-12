@@ -6,6 +6,7 @@
 - 😄 Pronouns: she/her
   
 [WEBSITE CREATED USING CHATGPT](file:///C:/Users/Adyasha/OneDrive/Documents/index.html)
+  [file:///C:/Users/Adyasha/OneDrive/Documents/index.html]
 <!---
 ADYASHAAAA/ADYASHAAAA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
